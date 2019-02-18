@@ -1,0 +1,8 @@
+/* some styles are being overridding the default Bulma styles to suit my tastes and wants better */
+
+.orange{
+    background-color: darkorange !important;
+}
+.navbar-link:not(.is-arrowless)::after{
+    border-color: darkorange !important;
+}
