@@ -14,7 +14,9 @@ Balance will have the ability to:
 
 
 ###Using Balance
+
 ####The Landing page
+
 The Landing Page, or the initial webpage, that loads when a user goes to the deployment address is a One-Page Picth encouraging users to either Sign Up or Sign In.
 The Landing Page has a simple navigation bar with three options: a logo, Sign Up, or Sign In.
 The body of the landing page body has a full size hero image background. Sales pitch to the left, and a sign up container on the right. 
