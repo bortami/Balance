@@ -24,7 +24,7 @@ The body of the landing page body has a full size hero image background. Sales p
 The sign Up container also has an option to sign in. Registered users are able to click the sign-in from the navbar or from container. The sign up and sales pitch container is replaced with a single login container dynamically. The Sign In container has the option to return to the Sign Up Container. 
 If a user clicks on the Sign Up Button from the NavBar or from the the Sign-In container, the sign-in container is replaced with a single Sign Up container.
 
-![alt text](LandingPage.jpg "Landing Page WireFrame")
+![alt text](LandingDefault.jpg "Landing Page WireFrame")
 
 #### After Logging In
 
