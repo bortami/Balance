@@ -13,9 +13,9 @@ Balance will have the ability to:
 5. Present the information in an easy to use manner for those that are not familar with other fanancial software.
 
 
-###Using Balance
+### Using Balance
 
-####The Landing page
+#### The Landing page
 
 The Landing Page, or the initial webpage, that loads when a user goes to the deployment address is a One-Page Picth encouraging users to either Sign Up or Sign In.
 The Landing Page has a simple navigation bar with three options: a logo, Sign Up, or Sign In.
