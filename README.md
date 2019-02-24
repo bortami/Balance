@@ -49,3 +49,11 @@ The first container has a page-width graph showing Gross Sales for the last 7 da
 Below that are two other 
 
 <!-- Development Documentation Section -->
+### Development Notes
+
+#### Technologies Uses
+
+1. [Bulma.io](https://www.bulma.io) CSS Framework
+2. [SASS](https://sass-lang.com/) CSS Preprocessor
+3. [Node.js](https://nodejs.org/) Asynchronous event driven JavaScript runtime
+4. [npm](https://docs.npmjs.com/) software registry

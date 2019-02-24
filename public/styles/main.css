@@ -1,8 +1,17 @@
 /* some styles are being overridding the default Bulma styles to suit my tastes and wants better */
+:root{
+    --orange: darkorange
+}
 
+/* Nav-Bar Design */
 .orange{
-    background-color: darkorange !important;
+    background-color: var(--orange) !important;
 }
 .navbar-link:not(.is-arrowless)::after{
-    border-color: darkorange !important;
+    border-color: var(--orange) !important;
 }
+
+/*Footer*/
+
+
+

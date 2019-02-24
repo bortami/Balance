@@ -1,0 +1,10 @@
+Running Task List
+
+decide on template design and color scheme (orange accents, pale gray background, dark gray font colors)
+
+create wireframes for pages
+write css style sheet with template
+
+create ERD for data
+create json database structure
+define actions and options for each section/pages
