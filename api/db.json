@@ -1,0 +1,93 @@
+{
+  "states": [
+    {
+      "state": "WV",
+      "id": 1
+    }
+  ],
+  "suppliers": [
+    {
+      "companyName": "Appalachian Glass",
+      "contactName": "",
+      "emailAddress": "",
+      "phoneOne": "304-269-1030",
+      "phoneTwo": "",
+      "faxNumber": "",
+      "address": "",
+      "city": "Weston",
+      "stateId": 1,
+      "zipcode": "26452",
+      "website": "",
+      "accountNumber": "",
+      "id": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Gift Shop"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productCode": "FSH0523",
+      "productName": "1/2oz Sinkers",
+      "departmentId": 1,
+      "supplierId": 35,
+      "cost": 1.35,
+      "listPrice": 2.05
+    }
+  ],
+  "productInvoices": [
+    {
+      "id": 1,
+      "productId": 1,
+      "invoiceId": 1
+    }
+  ],
+  "productSuppliers": [
+    {
+      "id": 1,
+      "supplierId": 35,
+      "productId": 1
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "date": "01-31-2017",
+      "supplierId": 8,
+      "invoiceNumber": "1277",
+      "totalAmount": 640.0,
+      "paid": true
+    }
+  ],
+  "invoiceCategories": [
+    {
+      "id": 1,
+      "invoiceId": 1,
+      "departmentId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Salary & Wages"
+    }
+  ],
+  "expenseInvoices": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "invoiceId": 1
+    }
+  ],
+  "sales":[
+      {
+          "id":1,
+          "date":"01-31-2017",
+          
+      }
+  ]
+}
